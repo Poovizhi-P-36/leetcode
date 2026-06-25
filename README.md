@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Poovizhi-P-36/leetcode/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Poovizhi-P-36/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
