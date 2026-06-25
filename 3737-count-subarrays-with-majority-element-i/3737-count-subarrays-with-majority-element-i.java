@@ -15,10 +15,8 @@ class Solution {
                 cnt--;
                 presum-=pre[cnt];
                 pre[cnt]++;
-            }
-                ans += presum;
+            }ans += presum;
         }
-
         return ans;
-    }
-}
+       }  
+       }
