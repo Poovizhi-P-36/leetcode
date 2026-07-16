@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Poovizhi-P-36/leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Poovizhi-P-36/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Poovizhi-P-36/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Poovizhi-P-36/leetcode/tree/master/0217-contains-duplicate) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Poovizhi-P-36/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Poovizhi-P-36/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Poovizhi-P-36/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Poovizhi-P-36/leetcode/tree/master/0268-missing-number) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Poovizhi-P-36/leetcode/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Poovizhi-P-36/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
