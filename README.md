@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Poovizhi-P-36/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Poovizhi-P-36/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Poovizhi-P-36/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Poovizhi-P-36/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Poovizhi-P-36/leetcode/tree/master/0283-move-zeroes) |
@@ -63,5 +64,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Poovizhi-P-36/leetcode/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
