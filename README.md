@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Poovizhi-P-36/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Poovizhi-P-36/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Poovizhi-P-36/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Poovizhi-P-36/leetcode/tree/master/0075-sort-colors) |
@@ -68,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Poovizhi-P-36/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Poovizhi-P-36/leetcode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Poovizhi-P-36/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Poovizhi-P-36/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Poovizhi-P-36/leetcode/tree/master/0283-move-zeroes) |
@@ -93,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Poovizhi-P-36/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Poovizhi-P-36/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Poovizhi-P-36/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
