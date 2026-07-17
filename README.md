@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Poovizhi-P-36/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Poovizhi-P-36/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Poovizhi-P-36/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Poovizhi-P-36/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Poovizhi-P-36/leetcode/tree/master/0217-contains-duplicate) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Poovizhi-P-36/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Poovizhi-P-36/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Poovizhi-P-36/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Poovizhi-P-36/leetcode/tree/master/0268-missing-number) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Poovizhi-P-36/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Poovizhi-P-36/leetcode/tree/master/0283-move-zeroes) |
 ## Math
