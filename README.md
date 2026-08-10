@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Poovizhi-P-36/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Poovizhi-P-36/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Poovizhi-P-36/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Poovizhi-P-36/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Poovizhi-P-36/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1572-matrix-diagonal-sum](https://github.com/Poovizhi-P-36/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Stack
 |  |
 | ------- |
