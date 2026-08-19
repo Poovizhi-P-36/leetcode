@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Poovizhi-P-36/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1572-matrix-diagonal-sum](https://github.com/Poovizhi-P-36/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Poovizhi-P-36/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Poovizhi-P-36/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Poovizhi-P-36/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Poovizhi-P-36/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Poovizhi-P-36/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Poovizhi-P-36/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Poovizhi-P-36/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
