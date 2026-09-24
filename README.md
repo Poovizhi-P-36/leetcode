@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Poovizhi-P-36/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Poovizhi-P-36/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poovizhi-P-36/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Poovizhi-P-36/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Poovizhi-P-36/leetcode/tree/master/0217-contains-duplicate) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Poovizhi-P-36/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Poovizhi-P-36/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poovizhi-P-36/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Poovizhi-P-36/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Poovizhi-P-36/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Poovizhi-P-36/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poovizhi-P-36/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Poovizhi-P-36/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Poovizhi-P-36/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Poovizhi-P-36/leetcode/tree/master/0704-binary-search) |
