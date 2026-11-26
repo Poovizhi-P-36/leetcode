@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Poovizhi-P-36/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Poovizhi-P-36/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Poovizhi-P-36/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Poovizhi-P-36/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Poovizhi-P-36/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Poovizhi-P-36/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Poovizhi-P-36/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Poovizhi-P-36/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Poovizhi-P-36/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Poovizhi-P-36/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Poovizhi-P-36/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Poovizhi-P-36/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Poovizhi-P-36/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
